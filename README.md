@@ -12,7 +12,7 @@ development.
 
 - What does testing even mean?
 - A look at Xcode testing support
-- TDD
+- Test Driven Development
 	- Why TDD
 	- The TDD rules
 	- Red, Green, Refactor
@@ -22,7 +22,7 @@ development.
 
 In which we'll get our hands dirty and write code in a TDD way.
 
-- TDD exercises from [exercism.io](http://exercism.io/)
+- TDD exercises from [exercism.io](http://exercism.io/) 👉 [repo](https://github.com/mokagio/swift-tdd-exercises)
 - ...
 
 ### Real world testing
