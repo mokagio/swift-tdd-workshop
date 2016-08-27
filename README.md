@@ -41,7 +41,7 @@ Swift.
 
 - Testing asynchronous code
 - Stubbing the network
-- Using an in-memory database
+- Using an in-memory database ([repo](https://github.com/mokacoding/unit-test-in-memory-realm-example))
 - xUnit vs xSpec style
 - Quick and Nimble
 
