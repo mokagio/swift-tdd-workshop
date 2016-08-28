@@ -42,10 +42,11 @@ In which we'll touch on more advanced techniques regarding testing and TDD in
 Swift.
 
 - Testing asynchronous code
-- Stubbing the network
-- Using an in-memory database ([repo](https://github.com/mokacoding/unit-test-in-memory-realm-example))
+- Test Doubles 👉 [repo](https://github.com/mokagio/FakesDemo)
+- Stubbing the network 👉 [repo](https://github.com/mokacoding/OHHTTPStubsExample)
+- Using an in-memory database 👉 [repo](https://github.com/mokacoding/unit-test-in-memory-realm-example)
 - xUnit vs xSpec style
-- Quick and Nimble
+- [Quick](https://github.com/Quick/Quick) and [Nimble](https://github.com/Quick/Nimble)
 
 ---
 
