@@ -5,6 +5,10 @@ This repository contains the track and exercises for the [/dev/world
 
 ## Program
 
+You'll notice that there is no final Q&A session, that is because the whole
+workshop is designed to be highly interactive and as such question should be
+asked "as we go".
+
 ### Introduction
 
 In which we'll introduce the basic concepts of testing and test driven
@@ -14,8 +18,8 @@ development.
 - A look at Xcode testing support
 - Test Driven Development
 	- Why TDD
-	- The TDD rules
 	- Red, Green, Refactor
+	- The TDD rules
 
 
 ### Let's write some tests
@@ -23,16 +27,14 @@ development.
 In which we'll get our hands dirty and write code in a TDD way.
 
 - TDD exercises from [exercism.io](http://exercism.io/) 👉 [repo](https://github.com/mokagio/swift-tdd-exercises)
-- ...
 
 ### Real world testing
 
 In which we'll get a taste of what it means to write tests for real world
 applications.
 
-- ...
-- Finding _seams_ to test existing code
-- ...
+- Adding a new feature guided by tests 👉 [repo](https://github.com/mokagio/SwimsTracker)
+- Modifying an existing feature guided by tests 👉 [repo](https://github.com/mokagio/SwimsTracker)
 
 ### Advanced topics
 
